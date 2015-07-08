@@ -1,0 +1,14 @@
+#compiled python files
+*.pyc
+
+#eclipse files
+*.project
+*.pydevproject
+
+#these are temporary
+.
+ansible.cfg
+example.log
+hosts
+playbook.yml
+turntable.log
