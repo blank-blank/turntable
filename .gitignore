@@ -1,3 +1,4 @@
+#==================================================
 #compiled python files
 *.pyc
 
@@ -5,6 +6,10 @@
 *.project
 *.pydevproject
 
+#all log files
+**/*.log
+
+#==================================================
 #these are temporary
 .
 ansible.cfg
